@@ -5,3 +5,5 @@
 misc/
 notebooks/
 secrets.toml.example
+
+con_lib.py
