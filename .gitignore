@@ -2,3 +2,6 @@
 .vscode/
 .env
 .streamlit/secrets.toml
+misc/
+notebooks/
+secrets.toml.example

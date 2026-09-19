@@ -1,6 +1,0 @@
-inside env should MYSQLPASSWORD = input_your_password 
-without any double qute
-
-
-so for the crud_workflow_part_1, 
-i change the con_lib.py schema to tester_lib, previously sample_library 
